@@ -17,16 +17,16 @@ PHP自作
 •	登録されている本のレビューを投稿できる。<br>
 •	会員限定の掲示板「ブッククラブ」を利用できる。<br>
 •	掲示板では「いいね！」機能を搭載し、会員同士の気軽な交流ができるようにする。<br>
-※　　テストアカウント<br>
-  email:aaa@gmail.com<br>
-  password:aaa<br>
+※テストアカウント<br>
+email:aaa@gmail.com<br>
+password:aaa<br>
 
-## 　管理ユーザー
+## 管理ユーザー
 •　　登録書籍の編集、削除　<br>
 •　　ユーザー、レビュー、掲示板投稿の削除<br>
-※　　テストアカウント<br>
-  email:admin@gmail.com<br>
-  password:admin<br>
+※テストアカウント<br>
+email:admin@gmail.com<br>
+password:admin<br>
 
 # 環境
 MAMP/MySQL/PHP
