@@ -22,8 +22,8 @@ email:aaa@gmail.com<br>
 password:aaa<br>
 
 ## 管理ユーザー
-•　　登録書籍の編集、削除　<br>
-•　　ユーザー、レビュー、掲示板投稿の削除<br>
+•登録書籍の編集、削除　<br>
+•ユーザー、レビュー、掲示板投稿の削除<br>
 ※テストアカウント<br>
 email:admin@gmail.com<br>
 password:admin<br>
